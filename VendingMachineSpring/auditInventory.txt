@@ -1,0 +1,29 @@
+Start session
+2021/10/09---02:48:44-PM::2::Coca Cola::Amount of money Entered 2.00::Error: Insufficient amount of money. Money returned to user.
+2021/10/09---02:48:51-PM::6::Orange Juice sold:: 67 units remaining. Amount of money Entered 3.00 Change returned : 1 Quarters  1 Dimes  1 Nickels  0 Pennies  
+2021/10/09---02:49:29-PM::1::Diet Coke::Amount of money Entered 3.00::Error: Item out of stock. Money returned to user.
+2021/10/09---02:49:36-PM::8::Fanta::Amount of money Entered 1.00::Error: Insufficient amount of money. Money returned to user.
+2021/10/09---02:50:01-PM::Amount of money Entered 5.00::Error: The item chosen does not exist. Money returned to user.
+2021/10/09---02:51:37-PM::Amount of money Entered 3.66::Error: The item chosen does not exist. Money returned to user.
+2021/10/10---01:33:58-PM::6::Orange Juice sold:: 66 units remaining. Amount of money Entered 4.00 Change returned : 5 Quarters  1 Dimes  1 Nickels  0 Pennies  
+2021/10/10---01:41:18-PM::5::Pepsi sold:: 56 units remaining. Amount of money Entered 5.00 Change returned : 10 Quarters  0 Dimes  0 Nickels  0 Pennies  
+2021/10/10---10:50:03-PM::8::Fanta sold:: 89 units remaining. Amount of money Entered 5.00 Change returned : 8 Quarters  2 Dimes  0 Nickels  0 Pennies  
+2021/10/10---10:59:42-PM::8::Fanta sold:: 88 units remaining. Amount of money Entered 5.00 Change returned : 8 Quarters  2 Dimes  0 Nickels  0 Pennies  
+2021/10/10---10:59:54-PM::1::Diet Coke::Amount of money Entered 4.00::Error: Item out of stock. Money returned to user.
+2021/10/10---11:19:03-PM::6::Orange Juice sold:: 65 units remaining. Amount of money Entered 6.00 Change returned : 13 Quarters  1 Dimes  1 Nickels  0 Pennies  
+2021/10/11---12:21:54-AM::8::Fanta sold:: 87 units remaining. Amount of money Entered 5.00 Change returned : 8 Quarters  2 Dimes  0 Nickels  0 Pennies  
+2021/10/11---12:47:45-AM::8::Fanta sold:: 86 units remaining. Amount of money Entered 7.00 Change returned : 16 Quarters  2 Dimes  0 Nickels  0 Pennies  
+2021/10/11---12:47:50-AM::1::Diet Coke::Amount of money Entered 2.00::Error: Item out of stock. Money returned to user.
+2021/10/11---12:47:59-AM::1::Diet Coke::Amount of money Entered 4.00::Error: Item out of stock. Money returned to user.
+2021/10/11---12:48:04-AM::2::Coca Cola::Amount of money Entered 2.00::Error: Insufficient amount of money. Money returned to user.
+2021/10/11---01:30:50-AM::7::Water sold:: 76 units remaining. Amount of money Entered 6.00 Change returned : 13 Quarters  0 Dimes  1 Nickels  0 Pennies  
+2021/10/11---01:43:52-PM::1::Diet Coke::Amount of money Entered 1.00::Error: Item out of stock. Money returned to user.
+2021/10/11---03:43:20-PM::8::Fanta sold:: 85 units remaining. Amount of money Entered 4.00 Change returned : 4 Quarters  2 Dimes  0 Nickels  0 Pennies  
+End session2021/10/11---04:41:23-PM::Session Start
+2021/10/11---04:41:29-PM::6::Orange Juice sold:: 64 units remaining. Amount of money Entered 5.00 Change returned : 9 Quarters  1 Dimes  1 Nickels  0 Pennies  
+2021/10/11---04:41:32-PM::Session End
+2021/10/11---04:43:09-PM::Session Start
+2021/10/11---04:43:14-PM::1::Diet Coke::Amount of money Entered 4.00::Error: Item out of stock. Money returned to user.
+2021/10/11---04:43:18-PM::3::Canada dry sold:: 36 units remaining. Amount of money Entered 3.00 Change returned : 2 Quarters  2 Dimes  0 Nickels  0 Pennies  
+2021/10/11---04:43:24-PM::4::Sprite::Amount of money Entered 2.00::Error: Insufficient amount of money. Money returned to user.
+2021/10/11---04:43:26-PM::Session End

@@ -1,0 +1,4 @@
+com\sg\vendingmachine\service\InventoryServiceImplTest.class
+com\sg\vendingmachine\service\InventoryAuditDaoImplStub.class
+com\sg\vendingmachine\dao\InventoryDaoImplTest.class
+com\sg\vendingmachine\service\InventoryDaoImplStub.class
